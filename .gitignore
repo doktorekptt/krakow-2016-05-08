@@ -1,0 +1,7 @@
+earth.o
+earth.pyc
+earth.txt~
+pluto.o
+*.pyc
+*.o
+*~	
